@@ -1,0 +1,19 @@
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+# Node / Angular
+dist/
+.angular/
+.vscode/
+.idea/
+*.user
+*.suo
+.env
+.vs/
+*.user
+*.suo
+# Environment
+.env
+.env.*
+!.env.example
